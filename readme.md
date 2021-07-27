@@ -36,9 +36,9 @@
 <h3 align="left"> 🤝🏻 &nbsp;Connect with Me </h3>
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
-<a href="https://linkedin.com/in/itspiyush01" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="itsPiyush01" height="30" width="40" /></a>
-<a href="https://www.instagram.com/its.Piyush01" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="its.Piyush01" height="30" width="40" /></a>
-<a href="mailto:piushranjan1402@gmail.com" target="blank"><img align="center" src="./email.svg" alt="Mail" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/itspiyush01" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="itsPiyush01" height="30" width="40" /></a>
+<a href="https://www.instagram.com/its.Piyush01" target="_blank"><img align="center" src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="its.Piyush01" height="30" width="40" /></a>
+<a href="mailto:piushranjan1402@gmail.com" target="_blank"><img align="center" src="./email.svg" alt="Mail" height="30" width="40" /></a>
 
 </br>
 
