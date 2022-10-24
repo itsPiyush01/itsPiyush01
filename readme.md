@@ -1,5 +1,7 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="26px" alt="hi"> I'm Piyush</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itspiyush01&label=Profile%20views&color=0e75b6&style=flat" alt="itspiyush01" /> </p
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
