@@ -7,8 +7,8 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 👨‍🎓 &nbsp; B.Tech in Computer Science from the **[ITER, S.O.A.U.](https://www.soa.ac.in/iter)**
 
-- 🌱 &nbsp; Currently learning React Native
-- 🥅 &nbsp; 2022 Goals: Contribute more to Open Source projects
+- 🌱 &nbsp; Currently learning Spring Boot
+- 🥅 &nbsp; 2024 Goals: Contribute more to Open Source projects
 - 📫 How to reach me **piyushranjan1402@gmail.com**
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
