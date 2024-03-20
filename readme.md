@@ -38,9 +38,10 @@
 <h3 align="left"> 🤝🏻 &nbsp;Connect with Me </h3>
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
-<a href="https://linkedin.com/in/itspiyush01" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="itsPiyush01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/piyushranjan1402" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="itsPiyush01" height="30" width="40" /></a>
 <a href="https://www.instagram.com/its.Piyush01" target="_blank"><img align="center" src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="its.Piyush01" height="30" width="40" /></a>
-<a href="mailto:piushranjan1402@gmail.com" target="_blank"><img align="center" src="./email.svg" alt="Mail" height="30" width="40" /></a>
+<a href="mailto:piyushranjan1402@gmail.com" target="_blank"><img align="center" src="./5066047_communication_email_envelope_letter_mail_icon.svg" alt="mail" height="30" width="40" /></a>
+<a href="callto://+916206613035" target="_blank" ><img align="center" src="./phone.svg" alt="call +91-620-661-3035" height="30" width="40"/>+91-620-661-3035</a>
 
 </br>
 
@@ -68,5 +69,5 @@
 </center>
 
 [website]: https://itspiyush01.github.io/My-Website/
-[linkedin]: https://linkedin.com/in/itspiyush01
+[linkedin]: https://linkedin.com/in/piyushranjan1402@gmail.com
 [instagram]: https://www.instagram.com/its.Piyush01
